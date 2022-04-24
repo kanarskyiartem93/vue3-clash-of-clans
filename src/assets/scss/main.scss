@@ -123,5 +123,6 @@ section,
   }
 }
 
-@import './common/_common';
-@import './helpers/_helpers';
+@import 'common/common';
+@import 'helpers/helpers';
+@import "theme";
